@@ -1,2 +1,2 @@
-# SaE23
+# SAE23
 Pour la SAÉ 23 - IUT Blagnac BUT 1
